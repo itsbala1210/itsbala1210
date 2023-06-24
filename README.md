@@ -1,3 +1,4 @@
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" height=300 width=900><br><br><br>
 <img alt="Coder GIF" align=right height=380 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"><br>
 # 💫 About Me:
 👨‍🎓 I'm a Computer Science and Engineering graduate.<br>🔭 I’m currently as a fresher.<br>💬 Ask me about web development, database and python.<br>🌱 I'm currently learning:<br>Node JS<br>AJAX<br>📬 How to reach me: balarengasamy1210@gmail.com.<br>📝 Resume.<br>💪 This is where I write, code and solve problems.<br>❤️ I love math, programming and listening music.<br>⚡Fun fact- I'm lazy but smart.
