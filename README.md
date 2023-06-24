@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I'm a Computer Science and Engineering graduate.<br>🔭 I’m currently as a freshers.<br>💬 Ask me about web development, database and python<br>🌱 I'm currently learning:<br>Node JS<br>AJAX<br>📬 How to reach me: balarengasamy1210@gmail.com<br>📝 Resume.<br>💪 This is where I write, code and solve problems.<br>❤️ I love math, programming and listening music.<br>⚡Fun fact- I'm lazy but smart.
+👨‍🎓 I'm a Computer Science and Engineering graduate.<br>🔭 I’m currently as a fresher.<br>💬 Ask me about web development, database and python.<br>🌱 I'm currently learning:<br>Node JS<br>AJAX<br>📬 How to reach me: balarengasamy1210@gmail.com.<br>📝 Resume.<br>💪 This is where I write, code and solve problems.<br>❤️ I love math, programming and listening music.<br>⚡Fun fact- I'm lazy but smart.
 
 
 ## 🌐 Socials:
