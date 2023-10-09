@@ -1,5 +1,5 @@
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" height=300 width=900><br><br><br>
-<h1 align="center">Hi👋,I'm Balasubramaniyan R <br>Fresher</h1> <br>
+<h1 align="center">Hi👋,I'm Balasubramaniyan R </h1> 
 <img alt="Coder GIF" align=right height=390 width=350 margin-top=100px src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"><br>
 
 # 💫 About Me:
