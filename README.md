@@ -3,7 +3,7 @@
 <img alt="Coder GIF" align=right height=390 width=350 margin-top=100px src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"><br>
 
 # 💫 About Me:
-👨‍🎓 I'm a Associate Engineer in Worldline Global Services.<br>🔭 I’m currently working on something cool.<br>💬 Ask me about web development, database and python.<br>🌱 I'm currently learning:<br>AJAX<br>📬 How to reach me: balarengasamy1210@gmail.com.<br>📝 Resume.<br>💪 This is where I write, code and solve problems.<br>❤️ I love math, programming and listening music.<br>⚡Fun fact- I'm lazy but smart.
+👨‍🎓 I'm a Associate Engineer in Worldline Global Services.<br>💬 Ask me about web development, database and python.<br>🌱 I'm currently learning:<br>AJAX<br>📬 How to reach me: balarengasamy1210@gmail.com.<br>📝 Resume.<br>💪 This is where I write, code and solve problems.<br>❤️ I love math, programming and listening music.<br>⚡Fun fact- I'm lazy but smart.
 
 
 ## 🌐 Socials:
